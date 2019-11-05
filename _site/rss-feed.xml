@@ -17,38 +17,8 @@
 </description>
 				
 				<pubDate>Thu, 31 Oct 2019 00:00:00 -0500</pubDate>
-				<link>http://localhost:4000/upload/facts/wings.html</link>
-				<guid isPermaLink="true">http://localhost:4000/upload/facts/wings.html</guid>
-			</item>
-		
-			<item>
-				<title>Wings</title>
-				
-				
-					<description>&lt;center&gt;
-&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/cOQDsmEqVt8&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
-
-&lt;/center&gt;
-</description>
-				
-				<pubDate>Thu, 31 Oct 2019 00:00:00 -0500</pubDate>
 				<link>http://localhost:4000/facts/wings.html</link>
 				<guid isPermaLink="true">http://localhost:4000/facts/wings.html</guid>
-			</item>
-		
-			<item>
-				<title>Eatnemen Vuelie</title>
-				
-				
-					<description>&lt;center&gt;
-&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/LTNQAL4nV5A&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
-
-&lt;/center&gt;
-</description>
-				
-				<pubDate>Sun, 07 Oct 2018 00:00:00 -0500</pubDate>
-				<link>http://localhost:4000/upload/facts/eatnemen-vuelie.html</link>
-				<guid isPermaLink="true">http://localhost:4000/upload/facts/eatnemen-vuelie.html</guid>
 			</item>
 		
 			<item>
@@ -76,37 +46,8 @@
 </description>
 				
 				<pubDate>Fri, 09 Sep 2016 00:00:00 -0500</pubDate>
-				<link>http://localhost:4000/upload/sample/payton-openhouse.html</link>
-				<guid isPermaLink="true">http://localhost:4000/upload/sample/payton-openhouse.html</guid>
-			</item>
-		
-			<item>
-				<title>Payton Open House</title>
-				
-				
-					<description>&lt;h1 id=&quot;november-9th&quot;&gt;November 9th&lt;/h1&gt;
-&lt;h2 id=&quot;saturday-november-9th&quot;&gt;Saturday, November 9th&lt;/h2&gt;
-&lt;h3 id=&quot;8-am---130-pm&quot;&gt;8 a.m. - 1:30 p.m.&lt;/h3&gt;
-</description>
-				
-				<pubDate>Fri, 09 Sep 2016 00:00:00 -0500</pubDate>
 				<link>http://localhost:4000/sample/payton-openhouse.html</link>
 				<guid isPermaLink="true">http://localhost:4000/sample/payton-openhouse.html</guid>
-			</item>
-		
-			<item>
-				<title>Take Me Home</title>
-				
-				
-					<description>&lt;center&gt;
-&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/BOcQr1JXcUM&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
-
-&lt;/center&gt;
-</description>
-				
-				<pubDate>Thu, 05 May 2016 00:00:00 -0500</pubDate>
-				<link>http://localhost:4000/upload/facts/learning-resources.html</link>
-				<guid isPermaLink="true">http://localhost:4000/upload/facts/learning-resources.html</guid>
 			</item>
 		
 			<item>
@@ -135,23 +76,22 @@
 </description>
 				
 				<pubDate>Mon, 04 Apr 2016 00:00:00 -0500</pubDate>
-				<link>http://localhost:4000/upload/facts/stand-by-me.html</link>
-				<guid isPermaLink="true">http://localhost:4000/upload/facts/stand-by-me.html</guid>
+				<link>http://localhost:4000/facts/stand-by-me.html</link>
+				<guid isPermaLink="true">http://localhost:4000/facts/stand-by-me.html</guid>
 			</item>
 		
 			<item>
-				<title>Stand By Me</title>
+				<title>Winter Concerts</title>
 				
 				
-					<description>&lt;center&gt;
-&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/hwZNL7QVJjE&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
-
-&lt;/center&gt;
+					<description>&lt;h1 id=&quot;december&quot;&gt;December&lt;/h1&gt;
+&lt;h2 id=&quot;monday-december-16th-and-tuesday-december-17th&quot;&gt;Monday, December 16th and Tuesday, December 17th&lt;/h2&gt;
+&lt;h3 id=&quot;time-tbd&quot;&gt;Time TBD&lt;/h3&gt;
 </description>
 				
-				<pubDate>Mon, 04 Apr 2016 00:00:00 -0500</pubDate>
-				<link>http://localhost:4000/facts/stand-by-me.html</link>
-				<guid isPermaLink="true">http://localhost:4000/facts/stand-by-me.html</guid>
+				<pubDate>Sat, 10 Oct 2015 00:00:00 -0500</pubDate>
+				<link>http://localhost:4000/sample/winter-concert.html</link>
+				<guid isPermaLink="true">http://localhost:4000/sample/winter-concert.html</guid>
 			</item>
 		
 	</channel>
